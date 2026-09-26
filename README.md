@@ -1,4 +1,4 @@
-Solutions to Harvard's CS50: Programming with Python
+*Solutions to Harvard's CS50: Programming with Python*
 
 Topics Covered:
 
